@@ -6,7 +6,7 @@
 -->
 Aqué les dejo un poco de información sobre mí.
 
-- 💻 Estudiante de Programación Full Stack (JavaScript,HTML,CSS,React.js,MySQL) en DigitalHouse.
+- 💻 Recibido de Programador Full Stack (JavaScript,HTML,CSS,React.js,MySQL) en DigitalHouse.
 - 🔬 Estudiante de 4º de ingeniería biomédica en la Universidad Nacional San Martín.
 - 💼 Actualmente Técnico Electrónico en FibroMarket (empresa de Telecomunicaciones).
 - 📷 Apasionado por la Fotografía y el deporte.
