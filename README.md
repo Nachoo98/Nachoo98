@@ -12,5 +12,5 @@ Aquí les dejo un poco de información sobre mí.
 - 🐙 Manejo de GitHub, CI/CD y flujos de desarrollo colaborativo
 - 🤖 Interesado en la implementación de IA en proyectos
 - 🐍 Experiencia en Machine Learning con Python
-- 📚 Estudiante de 4º año de Ingeniería Biomédica - UNSAM
+- 📚 Estudiante de 4º año de Ingeniería en Telecomunicaciones - UNSAM
 
